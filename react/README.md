@@ -1,12 +1,17 @@
 # React Playground
 
-A repository dedicated to React.
-
-## Description
-
-This playground contains my React learning exercises and projects
+React learning projects and experiments.
 
 ## Projects
 
-### [React Interface Exercise](./exercice-interface-react/)
-A learning exercise to discover React and create user interfaces.
+- **[exercice-interface-react](./exercice-interface-react/)** - UI components practice
+
+## Quick Clone
+
+```bash
+# Clone all React projects
+git clone -b react-only https://github.com/Yanis-Ada/playground.git
+
+# Clone only the React exercise
+git clone -b exercice-react https://github.com/Yanis-Ada/playground.git
+```

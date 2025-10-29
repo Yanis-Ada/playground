@@ -1,8 +1,7 @@
-# Playground - Tech Discoveries
+# Playground
 
-My personal experimentation space for learning new technologies and building small projects.
+Tech experiments and learning projects.
 
-## Projects
-
-### React
-- [Interface Exercise](./react/exercice-interface/) - Responsive UI components
+```bash
+git clone https://github.com/Yanis-Ada/playground.git
+```
