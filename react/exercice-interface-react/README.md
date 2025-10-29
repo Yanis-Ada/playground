@@ -19,7 +19,7 @@ This exercise helps learn:
 ### Installation
 ```bash
 # Clone the project
-git clone https://github.com/Yanis-Ada/react.git
+git clone -b exercice-react https://github.com/Yanis-Ada/playground.git
 cd exercice-interface-react
 
 # Install dependencies
